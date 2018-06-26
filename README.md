@@ -6,11 +6,13 @@
 - 5.对评论者的信息进行爬取
 
 ### 每个模块相互独立。更好的管理
-- 前端结构如下：
+- ### 前端结构如下：
 ![前端结构图](https://github.com/XuanmoFeng/wyy/blob/master/image/jiegou.png)
-- 后端结构如下：
+
+- ### 后端结构如下：
 ![后端结构图](https://github.com/XuanmoFeng/wyy/blob/master/image/houduan.png)
-- # 原理图
+
+- ### 原理图
 ![原理](https://github.com/XuanmoFeng/wyy/blob/master/image/yuanli.png)
 ## 所采用的技术：
 scrapy-redis：分布式爬虫框架
