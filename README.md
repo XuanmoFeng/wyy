@@ -7,7 +7,7 @@
 
 ### 每个模块相互独立。更好的管理
 - 前端结构如下：
-![前端结构图](https://github.com/XuanmoFeng/wyy/blob/master/image/jiegou.png)
+![前端结构图](https://github.com/XuanmoFeng/wyy/blob/master/image/jiegou.png =100x100)
 - 后端结构如下：
 ![后端结构图](https://github.com/XuanmoFeng/wyy/blob/master/image/houduan.png)
 - # 原理图
