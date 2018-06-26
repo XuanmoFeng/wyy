@@ -6,8 +6,11 @@
 ## 5.对评论者的信息进行爬取
 
 每个模块相互独立。更好的管理
+结构如下：
+![前端结构图](https://github.com/XuanmoFeng/wyy/blob/master/image/jiegou.png)
 ## 所采用的技术：
 scrapy-redis：分布式爬虫框架
 echarts：统计图的分析
 Django：前端的显示
 一些反爬虫工具
+## 页面的显示
