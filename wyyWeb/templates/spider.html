@@ -1,0 +1,7 @@
+{% extends 'footer.html' %} {% block content %}
+    <div class="ui equal width grid" style="width:80%;margin:5px 50px 5px 50px ;">
+        <h2> 是否进行爬取{{ kind }}：名字{{ name }}的数据</h2><br>
+        <a href="{% url 'spider' %}?kindId={{ kindId }}&name={{ name }}&id={{ id }}">是</a></br>
+        <a href="../">否</a>
+    </div>
+{% endblock %}

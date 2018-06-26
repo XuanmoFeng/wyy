@@ -1,0 +1,44 @@
+1528361145697	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1528361145722	geckodriver	INFO	Listening on 127.0.0.1:60741
+1528361146195	mozrunner::runner	INFO	Running command: "D:\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.GX46IrWJuHBY"
+1528361153216	Marionette	INFO	Enabled via --marionette
+1528361163234	Marionette	INFO	Listening on port 60746
+1528361163386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core.js?acad6e83fe6f991104f40576c001942a, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core.js?acad6e83fe6f991104f40576c001942a, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core.js?acad6e83fe6f991104f40576c001942a, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core.js?acad6e83fe6f991104f40576c001942a, line 94: unreachable code after return statement
+JavaScript error: https://acstatic-dun.126.net/2.1.0_286ac64f/watchman.min.js, line 165: NS_ERROR_FAILURE: 
+1528369369095	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1528369369143	geckodriver	INFO	Listening on 127.0.0.1:65507
+1528369369669	mozrunner::runner	INFO	Running command: "D:\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.b0XYh5DYMtQZ"
+1528369375090	Marionette	INFO	Enabled via --marionette
+1528369389692	Marionette	INFO	Listening on port 65512
+1528369390326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core.js?acad6e83fe6f991104f40576c001942a, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core.js?acad6e83fe6f991104f40576c001942a, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core.js?acad6e83fe6f991104f40576c001942a, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core.js?acad6e83fe6f991104f40576c001942a, line 94: unreachable code after return statement
+1528373728741	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1528373728764	geckodriver	INFO	Listening on 127.0.0.1:52405
+1528373729231	mozrunner::runner	INFO	Running command: "D:\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.suKFawqee158"
+1528373751166	Marionette	INFO	Enabled via --marionette
+[Parent 4548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1528373761524	Marionette	INFO	Listening on port 52412
+1528373761694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///D:/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+[Parent 4548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+acad6e83fe6f991104f40576c001942a, line 94: unreachable code after return statement
+JavaScript error: https://acstatic-dun.126.net/2.1.0_286ac64f/watchman.min.js, line 165: NS_ERROR_FAILURE: 
+JavaScript warning: https://s3.music.126.net/web/s/core.js?acad6e83fe6f991104f40576c001942a, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core.js?acad6e83fe6f991104f40576c001942a, line 94: unreachable code after return statement
+1529032280950	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1529032280992	geckodriver	INFO	Listening on 127.0.0.1:50479
+1529032281473	mozrunner::runner	INFO	Running command: "D:\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.rl5GkQOJzU3Z"
